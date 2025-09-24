@@ -82,11 +82,7 @@ Some of the measures created:
 
 ## 🚀 How to Use
 
-Download the .pbix file from this repo: Retail_orders.pbix
-
-Open it in Power BI Desktop.
-
-Explore visuals and interact with filters for custom analysis.
+Find the dashboard here (Retail_orders)[https://drive.google.com/file/d/1GJxlA211L5vSnI5SAy7T5sbaK910uTkZ/view?usp=sharing]
 
 ## 📈 Insights Derived
 - Congo and Korea are the most important customer base with highest number of customers.
