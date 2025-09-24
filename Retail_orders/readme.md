@@ -82,7 +82,8 @@ Some of the measures created:
 
 ## 🚀 How to Use
 
-Find the dashboard here [Retail_orders](https://drive.google.com/file/d/1GJxlA211L5vSnI5SAy7T5sbaK910uTkZ/view?usp=sharing) and download and run it locally
+Find the dashboard here [Retail_orders](https://drive.google.com/file/d/1GJxlA211L5vSnI5SAy7T5sbaK910uTkZ/view?usp=sharing)  download and run it locally.
+You can also find the dataset here and have a look at the data [Dataset](https://www.kaggle.com/datasets/naelaqel/synthetic-e-commerce-relational-dataset) 
 
 ## 📈 Insights Derived
 - Congo and Korea are the most important customer base with highest number of customers.
