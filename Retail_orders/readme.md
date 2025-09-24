@@ -82,7 +82,7 @@ Some of the measures created:
 
 ## 🚀 How to Use
 
-Find the dashboard here (Retail_orders)[https://drive.google.com/file/d/1GJxlA211L5vSnI5SAy7T5sbaK910uTkZ/view?usp=sharing]
+Find the dashboard here [Retail_orders](https://drive.google.com/file/d/1GJxlA211L5vSnI5SAy7T5sbaK910uTkZ/view?usp=sharing) and download and run it locally
 
 ## 📈 Insights Derived
 - Congo and Korea are the most important customer base with highest number of customers.
